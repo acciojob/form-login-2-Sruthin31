@@ -11,7 +11,7 @@ const Phoneno = document.getElementById("phone").value;
 const Email = document.getElementById("email").value;
 
 
-	const messsage = `First Name: ${Firstname}\nLast Name: ${Lastname}\nPhone Number: ${Phoneno}\nEmail Id: ${Email}`;
+	const messsage = `First Name: ${Firstname}\nLast Name: ${Lastname}\nPhone Number: ${Phoneno}\nEmail ID: ${Email}`;
 
 	alert(messsage);
 	});
